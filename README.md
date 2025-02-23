@@ -4,7 +4,7 @@
 <img src="https://raw.githubusercontent.com/Galactic-Code-Developers/Shapley-Supercluster/refs/heads/main/images/Shapley_Supercluster_pillars-3563194837.jpg"
 width="500px"/>
 
-<ruby><rt>The Shapley Supercluster was one of five giant structures detected in a new survey of the local Universe.</rt>
+<ruby><rt>The Shapley Supercluster was one of five giant structures detected in a new survey of the local Universe.</rt></ruby>
 <ruby><rt>Previously considered the largest supercluster in space, it has now been eclipsed by at least four others, including Quipu.</rt></ruby>
 <ruby><rt>(Image credit: ESA & Planck Collaboration/Rosat/Digitized Sky Survey)</rt></ruby>
 </div>
