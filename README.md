@@ -1,7 +1,5 @@
 # Shapley-Supercluster
 
-## Shapley Supercluster:
-
 **Redshift Database:** A comprehensive catalog of radial velocities for galaxies in the Shapley Supercluster region, encompassing over 18,000 measurements. 
 [AANDA](<https://www.aanda.org/articles/aa/full_html/2020/06/aa37726-20/aa37726-20.html>)
 
