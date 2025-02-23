@@ -5,10 +5,8 @@
 width="500px"/>
 
 <ruby><rt>The Shapley Supercluster was one of five giant structures detected in a new survey of the local Universe.</rt>
-
-<rt>Previously considered the largest supercluster in space, it has now been eclipsed by at least four others, including Quipu.</rt>
-<rt>(Image credit: ESA & Planck Collaboration/Rosat/Digitized Sky Survey)</rt>
-</ruby>
+<ruby><rt>Previously considered the largest supercluster in space, it has now been eclipsed by at least four others, including Quipu.</rt></ruby>
+<ruby><rt>(Image credit: ESA & Planck Collaboration/Rosat/Digitized Sky Survey)</rt></ruby>
 </div>
 
 #vDatasets
