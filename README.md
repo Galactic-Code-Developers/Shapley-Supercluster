@@ -1,8 +1,8 @@
 # Shapley-Supercluster
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/Galactic-Code-Developers/Shapley-Supercluster/refs/heads/main/images/Shapley_Supercluster_pillars-3563194837.jpg"/>
-width="300px"
+<img src="https://raw.githubusercontent.com/Galactic-Code-Developers/Shapley-Supercluster/refs/heads/main/images/Shapley_Supercluster_pillars-3563194837.jpg"
+width="200px"/>
 </div>
 
 **Redshift Database:** A comprehensive catalog of radial velocities for galaxies in the Shapley Supercluster region, encompassing over 18,000 measurements. 
