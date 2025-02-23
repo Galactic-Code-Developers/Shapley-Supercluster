@@ -2,7 +2,8 @@
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/Galactic-Code-Developers/Shapley-Supercluster/refs/heads/main/images/Shapley_Supercluster_pillars-3563194837.jpg"
-width="200px"/>
+width="300px"/>
+<em>The Shapley Supercluster was one of five giant structures detected in a new survey of the local Universe. Previously considered the largest supercluster in space, it has now been eclipsed by at least four others, including Quipu. (Image credit: ESA & Planck Collaboration/Rosat/Digitized Sky Survey)</em>.
 </div>
 
 **Redshift Database:** A comprehensive catalog of radial velocities for galaxies in the Shapley Supercluster region, encompassing over 18,000 measurements. 
